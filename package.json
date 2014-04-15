@@ -2,10 +2,10 @@
   "name": "helloworld",
   "version": "1.0.0",
   "description": "prints hello world like a boss",
-  "homepage": "https://github.com/meetup/grunt-helloworld",
+  "homepage": "https://github.com/mattkime/grunt-helloworld",
   "repository": {
 	"type": "git",
-	"url": "git://github.com/meetup/grunt-helloworld.git"
+	"url": "git://github.com/mattkime/grunt-helloworld.git"
 	},
   "author": {
     "name": "Matthew Kime",
